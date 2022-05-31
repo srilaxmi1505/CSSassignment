@@ -1,0 +1,203 @@
+
+
+
+body{
+    border: 5px solid;
+    border-color: green;
+    background-image: url(https://img.freepik.com/free-vector/hand-painted-watercolor-pastel-sky-background_23-2148902771.jpg?w=2000);
+    
+}
+
+.f1{
+    position: relative;
+    color: black;
+    top: 0px;
+    left: 2%;
+    padding: 20px;
+    width: 30%;
+    font-style: italic;
+    color: white;
+    border: 5px solid;
+    border-color: red;
+    background-color: black;
+    border-radius: 30px;
+    text-align: center;
+    font-size: 30px;
+    display: inline-block;
+
+}
+
+.f2{
+    position: absolute;
+    color: black;
+    top: 80px;
+    left: 20%;
+    padding: 10px;
+    width: 38%;
+    font-style: italic;
+    color: white;
+    border: 5px solid;
+    border-color: red;
+    background-color: black;
+    border-radius: 30px;
+    text-align: center;
+    font-size: 30px;
+    display: inline-block;
+
+}
+
+.f3{
+    position: relative;
+    color: black;
+    top: 30px;
+    left: 28%;
+    padding: 20px;
+    width: 30%;
+    font-style: italic;
+    color: white;
+    border: 5px solid;
+    border-color: red;
+    background-color: black;
+    border-radius: 30px;
+    text-align: center;
+    font-size: 30px;
+    display: inline-block;
+
+}
+
+form{
+    position: relative;
+    top: 10px;
+    left: 20%;
+    width: 45%;
+    height:70%;
+    background-color: white;
+    border: 5px;
+    border-style: dashed;
+    border-color: red;
+    margin: 28%;
+    text-align: center;
+    color: red;
+}
+
+.circle {
+    position: relative;
+    padding: 5px;
+    top: 700px;
+    
+    left: 10%;
+    right: 50%;
+    border: solid;
+    border-color: grey;
+    width: 250px;
+    height: 250px;
+    display: block;
+    line-height: 45px;
+    border-radius: 100%;
+    font-style: italic;
+    text-decoration: underline;
+    font-size: 15px;
+    color: black;
+    text-align: center;
+    background: rgb(27, 151, 110);
+}
+
+.f4{
+    position: relative;
+    color: black;
+    top: 0px;
+    left: 30%;
+    padding: 0px;
+    width: 20%;
+    font-style: italic;
+    color: white;
+    border: 5px solid;
+    border-color: red;
+    background-color: black;
+    border-radius: 30px;
+    text-align: center;
+    font-size: 30px;
+    display: inline-block;
+
+}
+
+.box{
+    padding-left: 10%;
+    justify-content: space-evenly;   
+}
+
+.u1{
+    text-align: center;
+    border: 5px solid darkblue;
+    background-color: skyblue;
+    color: blueviolet;
+    border-radius: 20px;
+    width: 20%;
+    height: 20%;
+    font-size: large;
+    display: inline-block;
+    margin: 10px;
+    justify-content: space-evenly;
+}
+.u2{
+    text-align: center;
+    border: 5px solid darkblue;
+    background-color: skyblue;
+    color: blueviolet;
+    border-radius: 20px;
+    width: 20%;
+    height: 20%;
+    font-size: large;
+    display: inline-block;
+    margin: 10px;
+    align-items: center;
+
+}
+.u3{
+    text-align: center;
+    border: 5px solid darkblue;
+    background-color: skyblue;
+    color: blueviolet;
+    border-radius: 20px;
+    width: 20%;
+    height: 20%;
+    font-size: large;
+    display: inline-block;
+    margin: 10px;
+}
+.u4{
+    text-align: center;
+    border: 5px solid darkblue;
+    background-color: skyblue;
+    color: blueviolet;
+    border-radius: 20px;
+    width: 20%;
+    height: 20%;
+    font-size: large;
+    display: inline-block;
+    margin: 10px;
+}
+.u5{
+    text-align: center;
+    border: 5px solid darkblue;
+    background-color: skyblue;
+    color: blueviolet;
+    border-radius: 20px;
+    width: 20%;
+    height: 20%;
+    font-size: large;
+    display: inline-block;
+    margin: 10px;
+}
+.u6{
+    text-align: center;
+    border: 5px solid darkblue;
+    background-color: skyblue;
+    color: blueviolet;
+    border-radius: 20px;
+    width: 20%;
+    height: 20%;
+    font-size: large;
+    display: inline-block;
+    margin: 10px;
+}
